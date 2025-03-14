@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "omnisharp.useModernNet": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "workbench.startupEditor": "none",
+    "csharp.referencesCodeLens.enabled": false,
+    "editor.formatOnType": true,
+    "solidity.telemetry": false,
+    "[solidity]": {
+        "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+    "solidity.remappings": [
+    "forge-std/=lib/forge-std/src/",
+    "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.autoIndent": "brackets",
+    "editor.fontFamily": "Arbutus Slab, Monaco, 'Courier New', monospace",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "D2Coding",
+    "css.lint.unknownAtRules": "ignore"
+}
